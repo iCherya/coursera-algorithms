@@ -13,3 +13,4 @@ This repository contains Javascript solutions for [Algorithms Specialization](ht
 ## [Graph Search, Shortest Paths, and Data Structures](/2-algorithms-graphs-data-structures/)
 
 - [Programming Assignment #1](/2-algorithms-graphs-data-structures/programming-assignment-1/script.js)
+- [Programming Assignment #2](/2-algorithms-graphs-data-structures/programming-assignment-2/script.js)
