@@ -14,3 +14,4 @@ This repository contains Javascript solutions for [Algorithms Specialization](ht
 
 - [Programming Assignment #1](/2-algorithms-graphs-data-structures/programming-assignment-1/script.js)
 - [Programming Assignment #2](/2-algorithms-graphs-data-structures/programming-assignment-2/script.js)
+- [Programming Assignment #3](/2-algorithms-graphs-data-structures/programming-assignment-3/script.js)
